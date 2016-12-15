@@ -56,8 +56,4 @@ function dot (x, y){
     fill(random(255),150, random(255));
     ellipse(this.x, this.y, 10, 10);
   }
-}
-
-
-
-  
+}  
