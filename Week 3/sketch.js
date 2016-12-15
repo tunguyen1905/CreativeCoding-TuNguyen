@@ -1,3 +1,7 @@
+//Tu 
+//Week 3 Homework 
+//Using beginShape() and endShape()
+
 var numCircles = 40;
 var speed = 0; 
 
@@ -27,7 +31,7 @@ function draw(){
   }
 
 	//Motion reset when reaching speed limit
-	if(speed > 300){ //speed is set at 320
+	if(speed > 300){ 
 		speed = speed - 150;
 	}else{
 		speed+= 10;
