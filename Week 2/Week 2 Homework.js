@@ -3,6 +3,7 @@
 //Artwork: Study for Homage to the Square: Still Remembered
 //Artist: Albers Josef
 //Year 1956
+//https://www.google.com/culturalinstitute/beta/u/0/asset/study-for-homage-to-the-square-still-remembered/GgFKjB6-mBLFzQ
 
 var gap = 100;
 var distance = 40;
