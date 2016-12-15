@@ -54,7 +54,7 @@ if (loaded){
     //7th line
     "Settle my" + " " + lexicon.randomWord("nn") + " " + "with: I have brought a" + " " + lexicon.randomWord("nn") + "," + "\n" +
     lexicon.randomWord("nn", 1) + "," + "\n" +
-    "Then seat myself with: We have passed the" +
+    "Then seat myself with: We have passed the" + " " +
     lexicon.randomWord("jjs") + "." + "\n" 
     
   background(255);
