@@ -1,5 +1,5 @@
 //Tu Nguyen
-//Final Submission #2 
+//Final Sketch #2 
 
 
 function setup() {
