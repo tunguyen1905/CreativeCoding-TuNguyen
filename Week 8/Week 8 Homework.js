@@ -52,4 +52,4 @@ ParticleSystem.prototype.run = function() {
     p.run();
   
   }
-};
+}
